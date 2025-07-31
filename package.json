@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Likitha4132/reactcicd2.git",
+  "homepage": "https://Likitha4132.github.io/reactcicd2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
